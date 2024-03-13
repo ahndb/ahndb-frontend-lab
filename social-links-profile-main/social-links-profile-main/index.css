@@ -1,0 +1,120 @@
+body {
+  background-color: rgba(0, 0, 0, 0.9);
+}
+.image {
+  width: 200px;
+  height: 200px;
+  border-radius: 50px;
+}
+.all-data {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.name {
+  color: white;
+  font-size: 30px;
+  font-weight: 800;
+}
+
+.address {
+  color: rgb(187, 252, 108);
+  font-weight: 800;
+}
+
+.imformation {
+  color: white;
+}
+
+.github {
+  color: white;
+  background-color: rgba(82, 81, 81, 0.769);
+  width: 200px;
+  height: 50px;
+  text-align: center;
+  line-height: 50px;
+  font-weight: 600;
+  border-radius: 10px;
+}
+.github:hover{
+  background-color: rgb(187, 252, 108);
+  color: black;
+  cursor: pointer;
+}
+
+.job {
+  color: white;
+  background-color: rgba(82, 81, 81, 0.769);
+  width: 200px;
+  height: 50px;
+  text-align: center;
+  line-height: 50px;
+  font-weight: 600;
+  border-radius: 10px;
+}
+.job:hover{
+  background-color: rgb(187, 252, 108);
+  color: black;
+  cursor: pointer;
+}
+.linkedin {
+  color: white;
+  background-color: rgba(82, 81, 81, 0.769);
+  width: 200px;
+  height: 50px;
+  text-align: center;
+  line-height: 50px;
+  font-weight: 600;
+  border-radius: 10px;
+}
+.linkedin:hover{
+  background-color: rgb(187, 252, 108);
+  color: black;
+  cursor: pointer;
+}
+.twitter {
+  color: white;
+  background-color: rgba(82, 81, 81, 0.769);
+  width: 200px;
+  height: 50px;
+  text-align: center;
+  line-height: 50px;
+  font-weight: 600;
+  border-radius: 10px;
+}
+.twitter:hover{
+  background-color: rgb(187, 252, 108);
+  color: black;
+  cursor: pointer;
+}
+.instagram {
+  color: white;
+  background-color: rgba(82, 81, 81, 0.769);
+  width: 200px;
+  height: 50px;
+  text-align: center;
+  line-height: 50px;
+  font-weight: 600;
+  border-radius: 10px;
+}
+.instagram:hover{
+  background-color: rgb(187, 252, 108);
+  color: black;
+  cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
